@@ -2,6 +2,7 @@ Git is a distributed version control system.
 
 1
 2
+3
 
 reset --mixe1111d
 我第一次做了一些修改，但是不想提交。
