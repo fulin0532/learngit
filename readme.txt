@@ -14,4 +14,4 @@ this is from ps git
 
 
 
-准备测试reset --mixed
+准备测试reset --mixe()6e731a61cf353aa3013d9fdfb1866e1fec2b95fdvd
