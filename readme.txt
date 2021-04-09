@@ -8,3 +8,6 @@ this is from ps git
 
 我在下面又修改了一些，这样可以提交吗？
 第二次测试-第二部分修改
+
+
+准备测试reset soft
