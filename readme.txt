@@ -11,3 +11,7 @@ this is from ps git
 
 
 准备测试reset soft
+
+
+
+准备测试reset --mixed
