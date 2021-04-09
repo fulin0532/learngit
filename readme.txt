@@ -18,3 +18,8 @@ this is from ps git
 
 
 准备测试 reset soft  -----760100d0e7af085c5705be65e7191a779df5eb42
+
+
+
+
+reset --mixed
