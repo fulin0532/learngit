@@ -15,3 +15,6 @@ this is from ps git
 
 
 准备测试reset --mixe()6e731a61cf353aa3013d9fdfb1866e1fec2b95fdvd
+
+
+准备测试 reset soft  -----760100d0e7af085c5705be65e7191a779df5eb42
